@@ -1,0 +1,11 @@
+{
+    "first_name": "Nume",
+    "last_name": "Prenume",
+    "email": "Email",
+    "password": "Parola",
+    "confirm_password": "Confirma Parola",
+    "register": "Inregistrare",
+    "login": "Logare",
+    "logout": "Deconectare",
+    "forgot_password": "Ai uitat parola?"
+}
