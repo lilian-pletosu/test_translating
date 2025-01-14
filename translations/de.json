@@ -347,5 +347,6 @@
     "paymentCardCommission": "",
     "paymentBalanceCommission": "",
     "isSuspendedDueNegativeBalance": "",
-    "Russian": "Russisch"
+    "Russian": "Russisch",
+    "russian": "Russisch"
 }
