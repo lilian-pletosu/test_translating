@@ -346,5 +346,6 @@
     "next": "Următor",
     "paymentCardCommission": "Plata cu cardul implică un comision suplimentar de @value% pentru acoperirea comisioanelor bancare, conform contractului.",
     "paymentBalanceCommission": "Având în vedere că soldul contului este negativ și CargoTrack a acoperit plata taxelor de drum pentru a evita o amendă, pentru această tranzacție se aplică un comision suplimentar de @value% conform contractului.",
-    "isSuspendedDueNegativeBalance": "Serviciile au fost suspendate din cauza soldului negativ"
+    "isSuspendedDueNegativeBalance": "Serviciile au fost suspendate din cauza soldului negativ",
+    "Russian": "Rusă"
 }
