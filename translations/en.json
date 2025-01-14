@@ -345,5 +345,6 @@
     "next": "Next",
     "paymentCardCommission": "Payment by card incurs an additional fee of @value% to cover bank charges, according to the contract.",
     "paymentBalanceCommission": "Given that the account balance is negative and CargoTrack has covered the payment of tolls to avoid a fine, this transaction is subject to an additional @value% commission as per the contract.",
-    "isSuspendedDueNegativeBalance": "The services have been suspended due to negative balance"
+    "isSuspendedDueNegativeBalance": "The services have been suspended due to negative balance",
+    "Russian": "Russian"
 }
