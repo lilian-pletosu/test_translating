@@ -124,9 +124,9 @@
     "newClient": "ÚJ ÜGYFÉL A CARGO TRACK-NÁL",
     "tryUsBtn": "ALKALMAZÁS TESZTELÉSE",
     "language": "VÁLASSZA KI A NYELVET",
-    "english": "ANGOL",
-    "romanian": "ROMÁN",
-    "hungarian": "MAGYAR",
+    "english": "English",
+    "romanian": "Română",
+    "hungarian": "Magyar",
     "contactFormCompletedMessage": "KÖSZÖNJÜK, HOGY KAPCSOLATBA LÉPTÉL VELÜNK",
     "contactFormFailedMessage": "AZ ÜZENET SIKERTELEN ELKÜLDÉSE. PRÓBÁLD ÚJRA",
     "contactHeader": "PRÓBÁLD KI AZ ALKALMAZÁST",
@@ -347,6 +347,6 @@
     "paymentCardCommission": "Payment by card incurs an additional fee of @value% to cover bank charges, according to the contract.",
     "paymentBalanceCommission": "Given that the account balance is negative and CargoTrack has covered the payment of tolls to avoid a fine, this transaction is subject to an additional @value% commission as per the contract.",
     "isSuspendedDueNegativeBalance": "A szolgáltatások a negatív egyenleg miatt felfüggesztésre kerültek",
-    "Russian": "Orosz",
+    "Russian": "Русский",
     "russian": "Orosz"
 }
