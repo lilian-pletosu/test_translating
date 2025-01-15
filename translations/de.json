@@ -124,9 +124,9 @@
     "newClient": "",
     "tryUsBtn": "",
     "language": "",
-    "english": "",
-    "romanian": "",
-    "hungarian": "",
+    "english": "English",
+    "romanian": "Română",
+    "hungarian": "Magyar",
     "contactFormCompletedMessage": "",
     "contactFormFailedMessage": "",
     "contactHeader": "",
@@ -347,6 +347,6 @@
     "paymentCardCommission": "",
     "paymentBalanceCommission": "",
     "isSuspendedDueNegativeBalance": "",
-    "Russian": "Russisch",
+    "Russian": "Русский",
     "russian": "Russisch"
 }
