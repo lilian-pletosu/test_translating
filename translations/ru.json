@@ -361,5 +361,11 @@
     "scheduleStatusPlanned": "Запланировано",
     "scheduleStatusCompleted": "Выполнено",
     "scheduleStatusCanceled": "Отменено",
-    "scheduleStatusOngoing": "В процессе"
+    "scheduleStatusOngoing": "В процессе",
+    "createUitDeviceDeclaration": "Создание декларации",
+    "etransportUitDeviceDeclarationDateFrom": "Дата от",
+    "createuitCode": "Создание UIT",
+    "etrasnportuitCodeDateFrom": "Дата от",
+    "active": "Активный",
+    "inactive": "Неактивный"
 }

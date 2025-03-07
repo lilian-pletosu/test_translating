@@ -361,5 +361,11 @@
     "scheduleStatusPlanned": "Planifrcat",
     "scheduleStatusCompleted": "Finalizat",
     "scheduleStatusCanceled": "Anulat",
-    "scheduleStatusOngoing": "În derulare"
+    "scheduleStatusOngoing": "În derulare",
+    "createUitDeviceDeclaration": "Creare declarație",
+    "etransportUitDeviceDeclarationDateFrom": "Data de la",
+    "createuitCode": "Creare Uit",
+    "etrasnportuitCodeDateFrom": "Data de la",
+    "active": "Activ",
+    "inactive": "Inactiv"
 }

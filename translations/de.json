@@ -361,5 +361,11 @@
     "scheduleStatusPlanned": "Planned",
     "scheduleStatusCompleted": "Completed",
     "scheduleStatusCanceled": "Canceled",
-    "scheduleStatusOngoing": "Ongoing"
+    "scheduleStatusOngoing": "Ongoing",
+    "createUitDeviceDeclaration": "Create declaration",
+    "etransportUitDeviceDeclarationDateFrom": "Declaration date from",
+    "createuitCode": "Create UIT",
+    "etrasnportuitCodeDateFrom": "Uit date from",
+    "active": "Active",
+    "inactive": "Inactive"
 }
