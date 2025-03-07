@@ -356,5 +356,9 @@
     "etransportStatusCanceled": "Canceled",
     "etransportStatusDraft": "Draft",
     "etransportStatusPending": "Pending",
-    "etransportUitCreateDeclaration": "Create declaration"
+    "etransportUitCreateDeclaration": "Create declaration",
+    "scheduleStatusPlanned": "Planned",
+    "scheduleStatusCompleted": "Completed",
+    "scheduleStatusCanceled": "Canceled",
+    "scheduleStatusOngoing": "Ongoing"
 }

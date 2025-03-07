@@ -357,5 +357,9 @@
     "etransportStatusCanceled": "Anulat",
     "etransportStatusDraft": "Schiță",
     "etransportStatusPending": "În așteptare",
-    "etransportUitCreateDeclaration": "Creare declarație"
+    "etransportUitCreateDeclaration": "Creare declarație",
+    "scheduleStatusPlanned": "Planifrcat",
+    "scheduleStatusCompleted": "Finalizat",
+    "scheduleStatusCanceled": "Anulat",
+    "scheduleStatusOngoing": "În derulare"
 }

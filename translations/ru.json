@@ -357,5 +357,9 @@
     "etransportStatusCanceled": "Отменен",
     "etransportStatusDraft": "Ченовик",
     "etransportStatusPending": "В ожидании",
-    "etransportUitCreateDeclaration": "Создать декларацию"
+    "etransportUitCreateDeclaration": "Создать декларацию",
+    "scheduleStatusPlanned": "Запланировано",
+    "scheduleStatusCompleted": "Выполнено",
+    "scheduleStatusCanceled": "Отменено",
+    "scheduleStatusOngoing": "В процессе"
 }
