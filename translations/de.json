@@ -348,5 +348,14 @@
     "paymentBalanceCommission": "",
     "isSuspendedDueNegativeBalance": "",
     "Russian": "Русский",
-    "russian": "Русский"
+    "russian": "Русский",
+    "currentVehicle": "Current vehicle",
+    "etransportUitViewDeclarationList": "Declarations list",
+    "etransportStatusSynced": "Synced",
+    "etransportStatusApproved": "Approved",
+    "etransportStatusFailed": "Failed",
+    "etransportStatusCanceled": "Canceled",
+    "etransportStatusDraft": "Draft",
+    "etransportStatusPending": "Pending",
+    "etransportUitCreateDeclaration": "Create declaration"
 }

@@ -348,5 +348,14 @@
     "paymentBalanceCommission": "Учитывая, что баланс счета отрицательный и CargoTrack покрыл оплату дорожных сборов во избежание штрафа, за эту транзакцию взимается дополнительная комиссия в размере @value% в соответствии с договором.",
     "isSuspendedDueNegativeBalance": "Услуги были приостановлены из-за отрицательного баланса",
     "Russian": "Русский",
-    "russian": "Русский"
+    "russian": "Русский",
+    "currentVehicle": "Текущий транспорт",
+    "etransportUitViewDeclarationList": "Список деклараций",
+    "etransportStatusSynced": "Синхронизирован",
+    "etransportStatusApproved": "",
+    "etransportStatusFailed": "Ошибка",
+    "etransportStatusCanceled": "Отменен",
+    "etransportStatusDraft": "Ченовик",
+    "etransportStatusPending": "В ожидании",
+    "etransportUitCreateDeclaration": "Создать декларацию"
 }
