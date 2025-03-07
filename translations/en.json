@@ -347,5 +347,16 @@
     "paymentBalanceCommission": "Given that the account balance is negative and CargoTrack has covered the payment of tolls to avoid a fine, this transaction is subject to an additional @value% commission as per the contract.",
     "isSuspendedDueNegativeBalance": "The services have been suspended due to negative balance",
     "russian": "Русский",
-    "events": "Events"
+    "events": "Events",
+    "currentVehicle": "Current vehicle",
+    "etransportUitViewDeclarationList: " "Declarations list",
+    "etransportStatusSynced": "Synced",
+    "etransportStatusApproved": "Approved",
+    "etransportStatusFailed": "Failed",
+    "etransportStatusCanceled": "Canceled",
+    "etransportStatusDraft": "Draft",
+    "etransportStatusPending": "Pending",
+    "etransportUitCreateDeclaration": "Create declaration"
+    
+
 }
