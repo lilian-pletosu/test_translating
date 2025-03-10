@@ -370,5 +370,6 @@
     "inactive": "Неактивный",
     "etransportScheduledCanceledDescription": "Декларация была отменена и не может быть изменена!",
     "etransportScheduledCanceledTitle": "Декларация была отменена",
-    "schedulerCantModified": "Декларация не может быть изменена!"
+    "schedulerCantModified": "Декларация не может быть изменена!",
+    "emptyList": "Список пуст"
 }

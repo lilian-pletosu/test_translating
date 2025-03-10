@@ -370,5 +370,6 @@
     "inactive": "Inactive",
     "etransportScheduledCanceledDescription": "Declaration was canceled, you can't modify it anymore!",
     "etransportScheduledCanceledTitle": "Declaration was  canceled",
-    "schedulerCantModified": "You can't modify the declaration anymore!"
+    "schedulerCantModified": "You can't modify the declaration anymore!",
+    "emptyList": "Empty list"
 }
