@@ -16,7 +16,7 @@
     "resetPasswordSuccess": "Un e-mail care conține un link de resetare a fost trimis la adresa dvs. de e-mail. Verificați folder-ul de spam în cazul în care nu îl primiți în decurs de 2-3 minute.",
     "dataProcessing": "Procesare date...",
     "dataSuccess": "Datele au fost preluate cu succes!",
-    "saveSuccess": "Datele au fost salvate cu success!",
+    "saveSuccess": "Datele au fost salvate cu succes!",
     "usernamePlaceholder": "Nume Utilizator",
     "mandatoryUsername": "Câmpul Nume Utilizator este obligatoriu!",
     "passwordPlaceholder": "Parolă",
