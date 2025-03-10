@@ -355,7 +355,7 @@
     "etransportStatusApproved": "Aprobat",
     "etransportStatusFailed": "Nereușit",
     "etransportStatusCanceled": "Anulat",
-    "etransportStatusDraft": "Schiță",
+    "etransportStatusDraft": "În procesare",
     "etransportStatusPending": "În așteptare",
     "etransportUitCreateDeclaration": "Creare declarație",
     "scheduleStatusPlanned": "Planificat",
