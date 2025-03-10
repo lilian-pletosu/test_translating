@@ -353,7 +353,7 @@
     "etransportUitViewDeclarationList": "Listă declarații",
     "etransportStatusSynced": "Sincronizat",
     "etransportStatusApproved": "În procesare",
-    "etransportStatusFailed": "Nereușit",
+    "etransportStatusFailed": "Eșuat",
     "etransportStatusCanceled": "Anulat",
     "etransportStatusDraft": "În procesare",
     "etransportStatusPending": "În așteptare",
