@@ -371,5 +371,6 @@
     "etransportScheduledCanceledDescription": "Декларация была отменена и не может быть изменена!",
     "etransportScheduledCanceledTitle": "Декларация была отменена",
     "schedulerCantModified": "Декларация не может быть изменена!",
-    "emptyList": "Список пуст"
+    "emptyList": "Список пуст",
+    "schedulerDoesNotMeetMinimumDurationRequirements": "Декларация не может быть запланирована, так как она не соответствует минимальным требованиям по времени 30 минут!"
 }
