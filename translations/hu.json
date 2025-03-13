@@ -372,5 +372,7 @@
     "etransportScheduledCanceledTitle": "Declaration was  canceled",
     "schedulerCantModified": "You can't modify the declaration anymore!",
     "emptyList": "Empty list",
-    "schedulerDoesNotMeetMinimumDurationRequirements": "The declaration does not meet the minimum duration requirements of 30 minutes!"
+    "schedulerDoesNotMeetMinimumDurationRequirements": "The declaration does not meet the minimum duration requirements of 30 minutes!",
+    "etransportLastSentPositionError": "Jelenleg nem tudjuk megjeleníteni a pozícióátvitelre vonatkozó információkat technikai hiba miatt. Kérjük, próbálja újra később."
+
 }
