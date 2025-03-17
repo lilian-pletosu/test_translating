@@ -373,5 +373,7 @@
     "schedulerCantModified": "You can't modify the declaration anymore!",
     "emptyList": "Empty list",
     "schedulerDoesNotMeetMinimumDurationRequirements": "The declaration does not meet the minimum duration requirements of 30 minutes!",
-    "etransportLastSentPositionError": "Derzeit können wir aufgrund eines technischen Fehlers keine Informationen zur Positionsübertragung anzeigen. Bitte versuchen Sie es später erneut."
+    "etransportLastSentPositionError": "Derzeit können wir aufgrund eines technischen Fehlers keine Informationen zur Positionsübertragung anzeigen. Bitte versuchen Sie es später erneut.",
+    "plCargoboxBalance": "carGObox-Guthaben Polen",
+    "plCarGOboxRechargeBtn": "carGObox-Konto Polen aufladen"
 }
