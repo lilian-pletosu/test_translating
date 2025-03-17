@@ -375,5 +375,5 @@
     "schedulerDoesNotMeetMinimumDurationRequirements": "The declaration does not meet the minimum duration requirements of 30 minutes!",
     "etransportLastSentPositionError": "Jelenleg nem tudjuk megjeleníteni a pozícióátvitelre vonatkozó információkat technikai hiba miatt. Kérjük, próbálja újra később.",
     "plCargoboxBalance": "carGObox Lengyelország egyenleg",
-    "plCarGOboxRechargeBtn": "carGObox Lengyelország egyenleg feltöltése"
+    "plCarGOboxRechargeBtn": "Fiók feltöltése"
 }

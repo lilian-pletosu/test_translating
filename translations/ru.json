@@ -375,5 +375,5 @@
     "schedulerDoesNotMeetMinimumDurationRequirements": "Декларация не может быть запланирована, так как она не соответствует минимальным требованиям по времени 30 минут!",
     "etransportLastSentPositionError": "В настоящее время мы не можем отобразить информацию о передаче позиции из-за технической ошибки. Пожалуйста, повторите попытку позже.",
     "plCargoboxBalance": "Баланс carGObox Польша",
-    "plCarGOboxRechargeBtn": "Пополнить счет carGObox Польша"
+    "plCarGOboxRechargeBtn": "Пополнить счет"
 }
