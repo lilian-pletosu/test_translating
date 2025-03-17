@@ -374,5 +374,6 @@
     "schedulerDoesNotMeetMinimumDurationRequirements": "The declaration does not meet the minimum duration requirements of 30 minutes!",
     "etransportLastSentPositionError": "At the moment, we cannot display information about position transmission due to a technical error. Please try again later.",
     "plCargoboxBalance": "carGObox Poland balance",
-    "plCarGOboxRechargeBtn": "Recharge account"
+    "plCarGOboxRechargeBtn": "Recharge account",
+    "plCargobox": "carGObox Poland"
 }

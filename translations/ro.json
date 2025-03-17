@@ -375,5 +375,6 @@
     "schedulerDoesNotMeetMinimumDurationRequirements": "Durata declarației nu corespunde cerințelor minime de 30 minute",
     "etransportLastSentPositionError": "La moment nu vă putem afișa informații despre transmiterea poziției din cauza unei erori tehnice. Vă rugăm să reîncercați mai târziu.",
     "plCargoboxBalance": "Sold curent carGObox Polonia",
-    "plCarGOboxRechargeBtn": "Reîncarcă contul"
+    "plCarGOboxRechargeBtn": "Reîncarcă contul",
+    "plCargobox": "carGObox Polonia"
 }
