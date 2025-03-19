@@ -364,7 +364,7 @@
     "scheduleStatusOngoing": "В процессе",
     "createUitDeviceDeclaration": "Создание декларации",
     "etransportUitDeviceDeclarationDateFrom": "Дата от",
-    "createuitCode": "Создание UIT",
+    "createuitCode": "Создание декларации ANAF",
     "etransportuitCodeDateFrom": "Дата от",
     "active": "Активный",
     "inactive": "Неактивный",

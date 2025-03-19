@@ -363,7 +363,7 @@
     "scheduleStatusOngoing": "Ongoing",
     "createUitDeviceDeclaration": "Create declaration",
     "etransportUitDeviceDeclarationDateFrom": "Declaration date from",
-    "createuitCode": "Create UIT",
+    "createuitCode": "Create declaration ANAF",
     "etransportuitCodeDateFrom": "Uit date from",
     "active": "Active",
     "inactive": "Inactive",
