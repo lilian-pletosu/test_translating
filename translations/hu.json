@@ -376,5 +376,6 @@
     "etransportLastSentPositionError": "Jelenleg nem tudjuk megjeleníteni a pozícióátvitelre vonatkozó információkat technikai hiba miatt. Kérjük, próbálja újra később.",
     "plCargoboxBalance": "Egyenleg:",
     "plCarGOboxRechargeBtn": "Fiók feltöltése",
-    "plCargobox": "carGObox Lengyelország"
+    "plCargobox": "carGObox Lengyelország",
+    "noRoadtaxInfo": "Nincs információ az útdíjról."
 }

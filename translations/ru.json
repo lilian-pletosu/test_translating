@@ -376,5 +376,6 @@
     "etransportLastSentPositionError": "В настоящее время мы не можем отобразить информацию о передаче позиции из-за технической ошибки. Пожалуйста, повторите попытку позже.",
     "plCargoboxBalance": "Баланс:",
     "plCarGOboxRechargeBtn": "Пополнить счет",
-    "plCargobox": "carGObox Польша"
+    "plCargobox": "carGObox Польша",
+    "noRoadtaxInfo" : "Информация о дорожном налоге отсутствует."
 }

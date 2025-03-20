@@ -376,5 +376,6 @@
     "etransportLastSentPositionError": "Derzeit können wir aufgrund eines technischen Fehlers keine Informationen zur Positionsübertragung anzeigen. Bitte versuchen Sie es später erneut.",
     "plCargoboxBalance": "Guthaben:",
     "plCarGOboxRechargeBtn": "Konto aufladen",
-    "plCargobox": "carGObox Polen"
+    "plCargobox": "carGObox Polen",
+    "noRoadtaxInfo": "Keine Informationen zur Straßenbenutzungsgebühr verfügbar."
 }

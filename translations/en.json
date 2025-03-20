@@ -375,5 +375,6 @@
     "etransportLastSentPositionError": "At the moment, we cannot display information about position transmission due to a technical error. Please try again later.",
     "plCargoboxBalance": "Balance:",
     "plCarGOboxRechargeBtn": "Recharge account",
-    "plCargobox": "carGObox Poland"
+    "plCargobox": "carGObox Poland",
+    "noRoadtaxInfo": "No road tax information available."
 }
