@@ -377,5 +377,6 @@
     "plCargoboxBalance": "Sold curent:",
     "plCarGOboxRechargeBtn": "Reîncarcă contul",
     "plCargobox": "carGObox Polonia",
-    "noRoadtaxInfo": "Nu există informații despre taxa de drum."
+    "noRoadtaxInfo": "Nu există informații despre taxa de drum.",
+    "etransportDeclarationCanceled":  "Declarația a fost anulată"
 }

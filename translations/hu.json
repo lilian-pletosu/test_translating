@@ -377,5 +377,6 @@
     "plCargoboxBalance": "Egyenleg:",
     "plCarGOboxRechargeBtn": "Fiók feltöltése",
     "plCargobox": "carGObox Lengyelország",
-    "noRoadtaxInfo": "Nincs információ az útdíjról."
+    "noRoadtaxInfo": "Nincs információ az útdíjról.",
+    "etransportDeclarationCanceled": "Nyilatkozat törölve"
 }

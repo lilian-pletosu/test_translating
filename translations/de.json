@@ -377,5 +377,6 @@
     "plCargoboxBalance": "Guthaben:",
     "plCarGOboxRechargeBtn": "Konto aufladen",
     "plCargobox": "carGObox Polen",
-    "noRoadtaxInfo": "Keine Informationen zur Straßenbenutzungsgebühr verfügbar."
+    "noRoadtaxInfo": "Keine Informationen zur Straßenbenutzungsgebühr verfügbar.",
+    "etransportDeclarationCanceled": "Die Erklärung wurde abgebrochen."
 }

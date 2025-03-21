@@ -376,5 +376,6 @@
     "plCargoboxBalance": "Balance:",
     "plCarGOboxRechargeBtn": "Recharge account",
     "plCargobox": "carGObox Poland",
-    "noRoadtaxInfo": "No road tax information available."
+    "noRoadtaxInfo": "No road tax information available.",
+    "etransportDeclarationCanceled": "Declaration canceled"
 }
