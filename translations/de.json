@@ -378,5 +378,7 @@
     "plCarGOboxRechargeBtn": "Konto aufladen",
     "plCargobox": "carGObox Polen",
     "noRoadtaxInfo": "Keine Informationen zur Straßenbenutzungsgebühr verfügbar.",
-    "etransportDeclarationCanceled": "Die Erklärung wurde abgebrochen."
+    "etransportDeclarationCanceled": "Die Erklärung wurde abgebrochen.",
+    "confirmCancel": "Abbrechen bestätigen",
+    "confirmCancelMessage": "Sind Sie sicher, dass Sie abbrechen möchten?"
 }

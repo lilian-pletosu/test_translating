@@ -378,5 +378,7 @@
     "plCarGOboxRechargeBtn": "Пополнить счет",
     "plCargobox": "carGObox Польша",
     "noRoadtaxInfo" : "Информация о дорожном налоге отсутствует.",
-    "etransportDeclarationCanceled": "Декларация отменена"
+    "etransportDeclarationCanceled": "Декларация отменена",
+    "confirmCancel": "Подтвердите отмену",
+    "confirmCancelMessage": "Вы уверены, что хотите отменить?"
 }
