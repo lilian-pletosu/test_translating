@@ -381,5 +381,6 @@
     "etransportDeclarationCanceled": "Декларация отменена",
     "confirmCancel": "Подтвердите отмену",
     "confirmCancelMessage": "Вы уверены, что хотите отменить?",
-    "confirmAction": "Подтвердить действие"
+    "confirmAction": "Подтвердить действие",
+    "confirmActionMessageMakeUITDelivered": "Вы уверены, что хотите отправить UIT в статусе «Доставлен»?"
 }

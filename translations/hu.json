@@ -381,5 +381,6 @@
     "etransportDeclarationCanceled": "Nyilatkozat törölve",
     "confirmCancel": "Törlés megerősítése", 
     "confirmCancelMessage": "Biztosan törölni szeretné?",
-    "confirmAction": "Megerősítés"
+    "confirmAction": "Megerősítés",
+    "confirmActionMessageMakeUITDelivered": "Biztosan törölni szeretné?"
 }

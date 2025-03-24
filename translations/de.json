@@ -381,5 +381,6 @@
     "etransportDeclarationCanceled": "Die Erklärung wurde abgebrochen.",
     "confirmCancel": "Abbrechen bestätigen",
     "confirmCancelMessage": "Sind Sie sicher, dass Sie abbrechen möchten?",
-    "confirmAction": "Bestätigen"
+    "confirmAction": "Bestätigen",
+    "confirmActionMessageMakeUITDelivered": "Sind Sie sicher, dass Sie die Uit-Lieferung bestätigen möchten?"
 }
