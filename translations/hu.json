@@ -382,5 +382,6 @@
     "confirmCancel": "Törlés megerősítése", 
     "confirmCancelMessage": "Biztosan törölni szeretné?",
     "confirmAction": "Megerősítés",
-    "confirmActionMessageMakeUITDelivered": "Biztosan törölni szeretné?"
+    "confirmActionMessageMakeUITDelivered": "Biztosan törölni szeretné?",
+    "delivered": "Törölve"
 }

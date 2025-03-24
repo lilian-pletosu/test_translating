@@ -381,5 +381,6 @@
     "confirmCancel": "Confirm Cancel",
     "confirmCancelMessage": "Are you sure you want to cancel?",
     "confirmAction": "Confirm action",
-    "confirmActionMessageMakeUITDelivered": "Are you sure you want to mark the UIT as delivered?"
+    "confirmActionMessageMakeUITDelivered": "Are you sure you want to mark the UIT as delivered?",
+    "delivered": "Delivered"
 }
