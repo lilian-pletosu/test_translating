@@ -379,5 +379,6 @@
     "noRoadtaxInfo": "No road tax information available.",
     "etransportDeclarationCanceled": "Declaration canceled",
     "confirmCancel": "Confirm Cancel",
-    "confirmCancelMessage": "Are you sure you want to cancel?"
+    "confirmCancelMessage": "Are you sure you want to cancel?",
+    "confirmAction": "Confirm action"
 }

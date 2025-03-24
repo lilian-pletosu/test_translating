@@ -380,5 +380,6 @@
     "noRoadtaxInfo": "Nincs információ az útdíjról.",
     "etransportDeclarationCanceled": "Nyilatkozat törölve",
     "confirmCancel": "Törlés megerősítése", 
-    "confirmCancelMessage": "Biztosan törölni szeretné?"
+    "confirmCancelMessage": "Biztosan törölni szeretné?",
+    "confirmAction": "Megerősítés"
 }

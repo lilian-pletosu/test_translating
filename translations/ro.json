@@ -380,5 +380,6 @@
     "noRoadtaxInfo": "Nu există informații despre taxa de drum.",
     "etransportDeclarationCanceled":  "Declarația a fost anulată",
     "confirmCancel": "Confirmă anularea",
-    "confirmCancelMessage": "Sunteți sigur că doriți să anulați?"
+    "confirmCancelMessage": "Sunteți sigur că doriți să anulați?",
+    "confirmAction": "Confirmă acțiunea"
 }

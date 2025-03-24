@@ -380,5 +380,6 @@
     "noRoadtaxInfo": "Keine Informationen zur Straßenbenutzungsgebühr verfügbar.",
     "etransportDeclarationCanceled": "Die Erklärung wurde abgebrochen.",
     "confirmCancel": "Abbrechen bestätigen",
-    "confirmCancelMessage": "Sind Sie sicher, dass Sie abbrechen möchten?"
+    "confirmCancelMessage": "Sind Sie sicher, dass Sie abbrechen möchten?",
+    "confirmAction": "Bestätigen"
 }

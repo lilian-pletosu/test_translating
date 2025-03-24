@@ -380,5 +380,6 @@
     "noRoadtaxInfo" : "Информация о дорожном налоге отсутствует.",
     "etransportDeclarationCanceled": "Декларация отменена",
     "confirmCancel": "Подтвердите отмену",
-    "confirmCancelMessage": "Вы уверены, что хотите отменить?"
+    "confirmCancelMessage": "Вы уверены, что хотите отменить?",
+    "confirmAction": "Подтвердить действие"
 }
