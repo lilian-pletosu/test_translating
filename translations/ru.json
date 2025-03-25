@@ -384,5 +384,6 @@
     "confirmAction": "Подтвердить действие",
     "confirmActionMessageMakeUITDelivered": "Вы уверены, что хотите отправить UIT в статусе «Доставлен»?",
     "delivered": "Доставлен",
-    "etransportUitMarkDelivered": "Отметить как доставленный"
+    "etransportUitMarkDelivered": "Отметить как доставленный",
+    "etransportUitDelivered": "UIT доставлен"
 }

@@ -383,5 +383,6 @@
     "confirmAction": "Confirm action",
     "confirmActionMessageMakeUITDelivered": "Are you sure you want to mark the UIT as delivered?",
     "delivered": "Delivered",
-    "etransportUitMarkDelivered": "Mark as delivered"
+    "etransportUitMarkDelivered": "Mark as delivered",
+    "etransportUitDelivered": "UIT was marked as delivered"
 }

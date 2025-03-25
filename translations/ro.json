@@ -384,5 +384,6 @@
     "confirmAction": "Confirmă acțiunea",
     "confirmActionMessageMakeUITDelivered": "Sunteți sigur că doriți să marcați ca fiind livrat?",
     "delivered": "Livrat",
-    "etransportUitMarkDelivered": "Marcare livrat"
+    "etransportUitMarkDelivered": "Marcare livrat",
+    "etransportUitDelivered": "UIT a fost marcat ca fiind livrat"
 }

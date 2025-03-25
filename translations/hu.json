@@ -384,5 +384,6 @@
     "confirmAction": "Megerősítés",
     "confirmActionMessageMakeUITDelivered": "Biztosan törölni szeretné?",
     "delivered": "Törölve",
-    "etransportUitMarkDelivered": "Törölve"
+    "etransportUitMarkDelivered": "Törölve",
+    "etransportUitDelivered": "Törölve"
 }
