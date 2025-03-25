@@ -383,5 +383,6 @@
     "confirmCancelMessage": "Sind Sie sicher, dass Sie abbrechen möchten?",
     "confirmAction": "Bestätigen",
     "confirmActionMessageMakeUITDelivered": "Sind Sie sicher, dass Sie die Uit-Lieferung bestätigen möchten?",
-    "delivered": "Geliefert"
+    "delivered": "Geliefert",
+    "etransportUitMarkDelivered": "Lieferung bestätigen"
 }

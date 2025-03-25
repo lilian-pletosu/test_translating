@@ -382,5 +382,6 @@
     "confirmCancelMessage": "Are you sure you want to cancel?",
     "confirmAction": "Confirm action",
     "confirmActionMessageMakeUITDelivered": "Are you sure you want to mark the UIT as delivered?",
-    "delivered": "Delivered"
+    "delivered": "Delivered",
+    "etransportUitMarkDelivered": "Mark as delivered"
 }

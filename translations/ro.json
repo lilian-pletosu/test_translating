@@ -383,5 +383,6 @@
     "confirmCancelMessage": "Sunteți sigur că doriți să anulați?",
     "confirmAction": "Confirmă acțiunea",
     "confirmActionMessageMakeUITDelivered": "Sunteți sigur că doriți să marcați ca fiind livrat?",
-    "delivered": "Livrat"
+    "delivered": "Livrat",
+    "etransportUitMarkDelivered": "Marcare livrat"
 }

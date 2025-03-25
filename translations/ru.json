@@ -383,5 +383,6 @@
     "confirmCancelMessage": "Вы уверены, что хотите отменить?",
     "confirmAction": "Подтвердить действие",
     "confirmActionMessageMakeUITDelivered": "Вы уверены, что хотите отправить UIT в статусе «Доставлен»?",
-    "delivered": "Доставлен"
+    "delivered": "Доставлен",
+    "etransportUitMarkDelivered": "Отметить как доставленный"
 }
