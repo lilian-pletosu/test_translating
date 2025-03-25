@@ -385,5 +385,6 @@
     "confirmActionMessageMakeUITDelivered": "Biztosan törölni szeretné?",
     "delivered": "Törölve",
     "etransportUitMarkDelivered": "Törölve",
-    "etransportUitDelivered": "Törölve"
+    "etransportUitDelivered": "Törölve",
+    "uitWasDeliveredAt": "Törölve:"
 }

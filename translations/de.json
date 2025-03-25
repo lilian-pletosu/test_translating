@@ -384,5 +384,6 @@
     "confirmAction": "Bestätigen",
     "confirmActionMessageMakeUITDelivered": "Sind Sie sicher, dass Sie die Uit-Lieferung bestätigen möchten?",
     "delivered": "Geliefert",
-    "etransportUitMarkDelivered": "Lieferung bestätigen"
+    "etransportUitMarkDelivered": "Lieferung bestätigen",
+    "uitWasDeliveredAt": "Uit wurde am:"
 }
