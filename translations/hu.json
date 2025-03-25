@@ -386,5 +386,7 @@
     "delivered": "Törölve",
     "etransportUitMarkDelivered": "Törölve",
     "etransportUitDelivered": "Törölve",
-    "uitWasDeliveredAt": "Törölve:"
+    "uitWasDeliveredAt": "Törölve:",
+    "notificationTestSuccess": "Sikeres teszt értesítés",
+    "notificationTestError": "Sikertelen teszt értesítés"
 }

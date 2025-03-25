@@ -385,5 +385,7 @@
     "confirmActionMessageMakeUITDelivered": "Sind Sie sicher, dass Sie die Uit-Lieferung bestätigen möchten?",
     "delivered": "Geliefert",
     "etransportUitMarkDelivered": "Lieferung bestätigen",
-    "uitWasDeliveredAt": "Uit wurde am:"
+    "uitWasDeliveredAt": "Uit wurde am:",
+    "notificationTestSuccess": "Die Benachrichtigung wurde erfolgreich gesendet.",
+    "notificationTestError": "Es ist ein Fehler beim Senden der Benachrichtigung aufgetreten."
 }
