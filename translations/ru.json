@@ -388,5 +388,6 @@
     "etransportUitDelivered": "UIT доставлен",
     "uitWasDeliveredAt" : "UIT был доставлен в:",
     "notificationTestSuccess": "Тестовое уведомление отправлено",
-    "notificationTestError": "Тестовое уведомление не отправлено"
+    "notificationTestError": "Тестовое уведомление не отправлено",
+    "etransportUitDeletedMessage": "UIT успешно удален!"
 }

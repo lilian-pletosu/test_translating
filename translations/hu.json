@@ -388,5 +388,6 @@
     "etransportUitDelivered": "Törölve",
     "uitWasDeliveredAt": "Törölve:",
     "notificationTestSuccess": "Sikeres teszt értesítés",
-    "notificationTestError": "Sikertelen teszt értesítés"
+    "notificationTestError": "Sikertelen teszt értesítés",
+    "etransportUitDeletedMessage": "Sikeresen törölve!"
 }

@@ -387,5 +387,6 @@
     "etransportUitMarkDelivered": "Lieferung bestätigen",
     "uitWasDeliveredAt": "Uit wurde am:",
     "notificationTestSuccess": "Die Benachrichtigung wurde erfolgreich gesendet.",
-    "notificationTestError": "Es ist ein Fehler beim Senden der Benachrichtigung aufgetreten."
+    "notificationTestError": "Es ist ein Fehler beim Senden der Benachrichtigung aufgetreten.",
+    "etransportUitDeletedMessage": "Die Uit wurde erfolgreich gelöscht!"
 }
