@@ -388,5 +388,6 @@
     "uitWasDeliveredAt": "UIT was marked as delivered at:",
     "notificationTestSuccess": "Notification test sent successfully!",
     "notificationTestError": "Notification test failed!",
-    "etransportUitDeletedMessage": "UIT was deleted successfully!"
+    "etransportUitDeletedMessage": "UIT was deleted successfully!",
+    "delete": "Delete"
 }

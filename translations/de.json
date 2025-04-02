@@ -388,5 +388,6 @@
     "uitWasDeliveredAt": "Uit wurde am:",
     "notificationTestSuccess": "Die Benachrichtigung wurde erfolgreich gesendet.",
     "notificationTestError": "Es ist ein Fehler beim Senden der Benachrichtigung aufgetreten.",
-    "etransportUitDeletedMessage": "Die Uit wurde erfolgreich gelöscht!"
+    "etransportUitDeletedMessage": "Die Uit wurde erfolgreich gelöscht!",
+    "delete": "Löschen"
 }
