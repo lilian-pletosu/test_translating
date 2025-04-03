@@ -392,5 +392,6 @@
     "delete": "Löschen",
     "confirmManualSendToAnaf": "Es ist erforderlich, das Fahrzeug manuell im e-Transport-System (ANAF) zu ändern. Dieser Schritt erfolgt nicht automatisch und muss direkt von Ihnen in der ANAF-Plattform durchgeführt werden.",
     "confirmManualSendToAnafTitle": "Achtung!",
-    "modalWillClosedAuto": "Das Modal wird automatisch geschlossen"
+    "modalWillClosedAuto": "Das Modal wird automatisch geschlossen",
+    "confirmActionMessageDeleteUit": "Sind Sie sicher, dass Sie die Uit löschen möchten?"
 }

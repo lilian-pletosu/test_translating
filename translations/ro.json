@@ -393,5 +393,6 @@
     "delete": "Șterge",
     "confirmManualSendToAnaf": "Este necesar să modificați manual vehiculul în e-Transport (ANAF). Acest pas nu se face automat și trebuie efectuat direct de dumneavoastră în platforma ANAF.",
     "confirmManualSendToAnafTitle": "Atenție!",
-    "modalWillClosedAuto": "Modalul se va închide automat"
+    "modalWillClosedAuto": "Modalul se va închide automat",
+    "confirmActionMessageDeleteUit": "Sunteți sigur că doriți să ștergeți UIT?"
 }

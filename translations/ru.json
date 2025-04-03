@@ -393,5 +393,6 @@
     "delete": "Удалить",
     "confirmManualSendToAnaf": "Необходимо вручную изменить транспортное средство в системе e-Transport (ANAF). Этот шаг не выполняется автоматически и должен быть выполнен вами напрямую на платформе ANAF.",
     "confirmManualSendToAnafTitle": "Внимание!",
-    "modalWillClosedAuto": "Окно закроется автоматически"
+    "modalWillClosedAuto": "Окно закроется автоматически",
+    "confirmActionMessageDeleteUit": "Вы уверены, что хотите удалить UIT?"
 }

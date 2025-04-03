@@ -393,5 +393,6 @@
     "delete": "Törlés",
     "confirmManualSendToAnaf": "Szükséges kézzel módosítani a járművet az e-Transport (ANAF) rendszerben. Ez a lépés nem történik meg automatikusan, és Önnek kell elvégeznie az ANAF platformján.",
     "confirmManualSendToAnafTitle": "Figyelem!",
-    "modalWillClosedAuto": "Az ablak automatikusan bezáródik"
+    "modalWillClosedAuto": "Az ablak automatikusan bezáródik",
+    "confirmActionMessageDeleteUit": "Biztosan törölni szeretné?"
 }
