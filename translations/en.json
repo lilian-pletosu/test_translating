@@ -76,7 +76,7 @@
     "etransportScheduleCancel": "CANCEL SCHEDULE",
     "etransportStopTransmission": "STOP NOW TRANSMISSION",
     "etransportScheduleExisting": "There is a schedule on the selected vehicle, please modify the existing schedule.",
-    "etransportSearchUITCode": "Search UIT Code or Current Vehicle",
+    "etransportSearchUITCode": "Search UIT Code or Vehicle",
     "etransportEmptyUITList": "You have no UIT codes associated with your company. in the national eTransport system for monitoring transport on Romanian territory",
     "etransportAddCodeManually": "Add a UIT code manually?",
     "etransportCode": "Code",
@@ -389,5 +389,7 @@
     "notificationTestSuccess": "Notification test sent successfully!",
     "notificationTestError": "Notification test failed!",
     "etransportUitDeletedMessage": "UIT was deleted successfully!",
-    "delete": "Delete"
+    "delete": "Delete",
+    "confirmManualSendToAnaf": "You must manually modify the vehicle in the e-Transport (ANAF) platform. This step is not performed automatically and must be completed by you directly in the ANAF system.",
+    "confirmManualSendToAnafTitle": "Attention!"
 }

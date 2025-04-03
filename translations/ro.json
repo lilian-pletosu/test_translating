@@ -82,7 +82,7 @@
     "etransportScheduleTransmissionStoped": "Transmisia a fost oprită cu succes!",
     "etransportScheduleTransmissionCanceled": "Transmisia a fost anulată cu succes!",
     "etransportScheduleExisting": "Există un program pentru vehiculul selectat, vă rugăm să modificați programul existent.",
-    "etransportSearchUITCode": "Căuta cod UIT sau vehicul curent",
+    "etransportSearchUITCode": "Căutare: UIT, Vehicul",
     "etransportEmptyUITList": "Nu aveți coduri UIT asociat firmei dvs. in sistem national eTransport pentru monitorizarea transporturilor pe teritoriul Romaniei",
     "etransportAddCodeManually": "Adăugati manual un cod UIT?",
     "etransportChangeVehicle": "Schimbă vehicul",
@@ -390,5 +390,7 @@
     "notificationTestSuccess": "Notificarea a fost trimisă cu succes!",
     "notificationTestError": "Eroare la trimiterea notificării!",
     "etransportUitDeletedMessage": "UIT a fost șters cu succes!",
-    "delete": "Șterge"
+    "delete": "Șterge",
+    "confirmManualSendToAnaf": "Este necesar să modificați manual vehiculul în e-Transport (ANAF). Acest pas nu se face automat și trebuie efectuat direct de dumneavoastră în platforma ANAF.",
+    "confirmManualSendToAnafTitle": "Atenție!"
 }

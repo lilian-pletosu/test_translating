@@ -82,7 +82,7 @@
     "etransportScheduleCancel": "Ütemezés törlése",
     "etransportStopTransmission": "LEÁLLÍTSA MOST A VÁLTOZÁST",
     "etransportScheduleExisting": "There is a schedule on the selected vehicle, please modify the existing schedule.",
-    "etransportSearchUITCode": "Keresés az UIT kódban vagy az aktuális járműben",
+    "etransportSearchUITCode": "Keresés UIT kód vagy Jármű alapján",
     "etransportEmptyUITList": "Nincsenek UIT-kódjai a vállalathoz társítva. a nemzeti eTransport rendszerben a román területen történő közlekedés nyomon követésére",
     "etransportAddCodeManually": "Manuálisan hozzáad egy UIT-kódot?",
     "etransportChangeVehicle": "Járműcsere",
@@ -390,5 +390,7 @@
     "notificationTestSuccess": "Sikeres teszt értesítés",
     "notificationTestError": "Sikertelen teszt értesítés",
     "etransportUitDeletedMessage": "Sikeresen törölve!",
-    "delete": "Törlés"
+    "delete": "Törlés",
+    "confirmManualSendToAnaf": "Szükséges kézzel módosítani a járművet az e-Transport (ANAF) rendszerben. Ez a lépés nem történik meg automatikusan, és Önnek kell elvégeznie az ANAF platformján.",
+    "confirmManualSendToAnafTitle": "Figyelem!"
 }

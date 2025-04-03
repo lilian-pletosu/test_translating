@@ -82,7 +82,7 @@
     "etransportScheduleTransmissionStoped": "Передача успешно остановлена!",
     "etransportScheduleTransmissionCanceled": "Передача успешно отменена!",
     "etransportScheduleExisting": "Для выбранного автомобиля существует планирование, пожалуйста, измените существующее планирование.",
-    "etransportSearchUITCode": "Поиск кода UIT или текущего автомобиля",
+    "etransportSearchUITCode": "Поиск по коду UIT или транспортному средству",
     "etransportEmptyUITList": "У вас нет кодов UIT, связанных с вашей компанией, в национальной системе электронного транспорта для мониторинга транспорта на территории Румынии.",
     "etransportAddCodeManually": "Добавить код UIT вручную?",
     "etransportChangeVehicle": "Изменить транспортное средство",
@@ -390,5 +390,7 @@
     "notificationTestSuccess": "Тестовое уведомление отправлено",
     "notificationTestError": "Тестовое уведомление не отправлено",
     "etransportUitDeletedMessage": "UIT успешно удален!",
-    "delete": "Удалить"
+    "delete": "Удалить",
+    "confirmManualSendToAnaf": "Необходимо вручную изменить транспортное средство в системе e-Transport (ANAF). Этот шаг не выполняется автоматически и должен быть выполнен вами напрямую на платформе ANAF.",
+    "confirmManualSendToAnafTitle": "Внимание!"
 }
