@@ -391,5 +391,6 @@
     "etransportUitDeletedMessage": "UIT was deleted successfully!",
     "delete": "Delete",
     "confirmManualSendToAnaf": "You must manually modify the vehicle in the e-Transport (ANAF) platform. This step is not performed automatically and must be completed by you directly in the ANAF system.",
-    "confirmManualSendToAnafTitle": "Attention!"
+    "confirmManualSendToAnafTitle": "Attention!",
+    "modalWillClosedAuto": "The modal will be closed automatically"
 }

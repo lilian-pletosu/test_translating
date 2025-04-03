@@ -392,5 +392,6 @@
     "etransportUitDeletedMessage": "UIT a fost șters cu succes!",
     "delete": "Șterge",
     "confirmManualSendToAnaf": "Este necesar să modificați manual vehiculul în e-Transport (ANAF). Acest pas nu se face automat și trebuie efectuat direct de dumneavoastră în platforma ANAF.",
-    "confirmManualSendToAnafTitle": "Atenție!"
+    "confirmManualSendToAnafTitle": "Atenție!",
+    "modalWillClosedAuto": "Modalul se va închide automat"
 }
