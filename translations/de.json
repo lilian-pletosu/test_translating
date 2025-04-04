@@ -393,5 +393,7 @@
     "confirmManualSendToAnaf": "Es ist erforderlich, das Fahrzeug manuell im e-Transport-System (ANAF) zu ändern. Dieser Schritt erfolgt nicht automatisch und muss direkt von Ihnen in der ANAF-Plattform durchgeführt werden.",
     "confirmManualSendToAnafTitle": "Achtung!",
     "modalWillClosedAuto": "Das Modal wird automatisch geschlossen",
-    "confirmActionMessageDeleteUit": "Sind Sie sicher, dass Sie die Uit löschen möchten?"
+    "confirmActionMessageDeleteUit": "Sind Sie sicher, dass Sie die Uit löschen möchten?",
+    "vehicleDeviceNoDataTransmission": "Das Gerät des Fahrzeugs hat keine aktualisierte Datenübertragung zum CargoTrack-Server. Daher ist die Position des Fahrzeugs möglicherweise zu diesem Zeitpunkt nicht verfügbar, um die Datenübertragung zu starten.",
+    "acknowledgeRiskNoDataUpdate": "Ich nehme das Risiko einer Speicherung ohne aktualisierte Datenübertragung zur Kenntnis."
 }

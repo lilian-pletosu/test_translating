@@ -393,5 +393,7 @@
     "confirmManualSendToAnaf": "You must manually modify the vehicle in the e-Transport (ANAF) platform. This step is not performed automatically and must be completed by you directly in the ANAF system.",
     "confirmManualSendToAnafTitle": "Attention!",
     "modalWillClosedAuto": "The modal will be closed automatically",
-    "confirmActionMessageDeleteUit": "Are you sure you want to delete the UIT?"
+    "confirmActionMessageDeleteUit": "Are you sure you want to delete the UIT?",
+    "vehicleDeviceNoDataTransmission": "The vehicle's device does not have an updated data transmission to the CargoTrack server. Therefore, the vehicle's position may not be available at this time to start the data transmission.",
+    "acknowledgeRiskNoDataUpdate": "I acknowledge the risk of saving without an updated data transmission."
 }

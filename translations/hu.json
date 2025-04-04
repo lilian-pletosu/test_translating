@@ -394,5 +394,7 @@
     "confirmManualSendToAnaf": "Szükséges kézzel módosítani a járművet az e-Transport (ANAF) rendszerben. Ez a lépés nem történik meg automatikusan, és Önnek kell elvégeznie az ANAF platformján.",
     "confirmManualSendToAnafTitle": "Figyelem!",
     "modalWillClosedAuto": "Az ablak automatikusan bezáródik",
-    "confirmActionMessageDeleteUit": "Biztosan törölni szeretné?"
+    "confirmActionMessageDeleteUit": "Biztosan törölni szeretné?",
+    "vehicleDeviceNoDataTransmission" :"A jármű eszköze nem rendelkezik frissített adatátvitellel a CargoTrack szerver felé. Ezért előfordulhat, hogy a jármű pozíciója jelenleg nem érhető el az adatátvitel elindításához.",
+    "acknowledgeRiskNoDataUpdate": "Tudomásul vettem a mentés kockázatát frissített adatátvitel nélkül."
 }

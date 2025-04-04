@@ -394,5 +394,7 @@
     "confirmManualSendToAnaf": "Este necesar să modificați manual vehiculul în e-Transport (ANAF). Acest pas nu se face automat și trebuie efectuat direct de dumneavoastră în platforma ANAF.",
     "confirmManualSendToAnafTitle": "Atenție!",
     "modalWillClosedAuto": "Modalul se va închide automat",
-    "confirmActionMessageDeleteUit": "Sunteți sigur că doriți să ștergeți UIT?"
+    "confirmActionMessageDeleteUit": "Sunteți sigur că doriți să ștergeți UIT?",
+    "vehicleDeviceNoDataTransmission": "Dispozitivul vehiculului nu are o transmisie de date actualizată către serverul CargoTrack. Prin urmare, este posibil ca poziția vehiculului să nu fie disponibilă în acest moment pentru a porni transmisia de date.",
+    "acknowledgeRiskNoDataUpdate": "Am luat la cunoștință riscul salvării fără o transmisie de date actualizată."
 }
