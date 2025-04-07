@@ -62,7 +62,7 @@
     "etransportAddUITCode": "Adaugă cod UIT",
     "etransportAddUITCodeExistsError": "Codul UIT există deja!",
     "etransportAddUITCodeNotAcceptable": "Codul UIT nu este valid. Asigură-te că acesta are exact 16 caractere și nu conține literele O, I, Z, S, G sau B.",
-    "etransportCode": "Cod",
+    "etransportCode": "Cod UIT",
     "etransportCodeError": "Codul trebuie sa contina 16 caracter!",
     "etransportUITCode": "Cod UIT",
     "etransportVehicle": "Vehicul",
