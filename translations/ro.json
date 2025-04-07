@@ -84,7 +84,7 @@
     "etransportScheduleExisting": "Există un program pentru vehiculul selectat, vă rugăm să modificați programul existent!",
     "etransportSearchUITCode": "Căutare: UIT, Vehicul",
     "etransportEmptyUITList": "Nu aveți coduri UIT asociate companiei dumneavoastră în sistemul eTransport sau nu sunt în derulare!",
-    "etransportAddCodeManually": "Adăugati manual un cod UIT?",
+    "etransportAddCodeManually": "Adăugați manual un cod UIT?",
     "etransportChangeVehicle": "Schimbă vehicul",
     "etransportUitInitialVehicle": "Vehicul iniăial",
     "etransportTow1": "Remorcă 1",
