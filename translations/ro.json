@@ -57,7 +57,7 @@
     "cargoboxStatusAutomaticallySuspended": "Suspendat automat",
     "etransportTitle": "Listă coduri UIT",
     "etransportHeader": "Listă coduri UIT",
-    "etransportAdd": "Adaugă",
+    "etransportAdd": "Replanifică",
     "etransportEdit": "Salvează",
     "etransportAddUITCode": "Adaugă cod UIT",
     "etransportAddUITCodeExistsError": "Codul UIT există deja!",
