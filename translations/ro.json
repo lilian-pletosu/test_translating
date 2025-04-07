@@ -93,7 +93,7 @@
     "etransportUitStartGPSData": "Start transmitere date GPS",
     "etransportUitStopGPSData": "Stop transmitere date GPS",
     "etransportUitGPSDataStarted": "Transmiterea datelor GPS este pornită",
-    "etransportUitSaveAndClose": "Salveaza si inchide",
+    "etransportUitSaveAndClose": "Salvează și închide",
     "etransportUitStartDialogTitle": "Planifica transmiterea datelor GPS",
     "etransportUitChangeVehiculeDialogTitle": "Schimbare vehicul",
     "etransportUitStartIntervalIsPast": "Intervalul selectat este in trecut!",
