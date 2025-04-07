@@ -83,7 +83,7 @@
     "etransportScheduleTransmissionCanceled": "Transmisia a fost anulată cu succes!",
     "etransportScheduleExisting": "Există un program pentru vehiculul selectat, vă rugăm să modificați programul existent!",
     "etransportSearchUITCode": "Căutare: UIT, Vehicul",
-    "etransportEmptyUITList": "Nu aveți coduri UIT înregistrate!               Atenție!!! Primul cod UIT poate fi adaugat doar din aplicatia web!",
+    "etransportEmptyUITList": "Nu aveți coduri UIT înregistrate!",
     "etransportAddCodeManually": "Adăugați manual un cod UIT?",
     "etransportChangeVehicle": "Schimbă vehicul",
     "etransportUitInitialVehicle": "Vehicul inițial",
