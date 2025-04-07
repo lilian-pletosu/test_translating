@@ -70,7 +70,7 @@
     "etransportVehicleLicence": "Cap tractor",
     "etransportStatusManual": "Manual",
     "etransportStatusInitiate": "Inițiat",
-    "etransportStatusActive": "Activ",
+    "etransportStatusActive": "Valid",
     "etransportStatusExpired": "Expirat",
     "etransportScheduleCompleted": "Data trimise",
     "etransportScheduleOngoing": "In Desfăsurare",
