@@ -367,7 +367,7 @@
     "createuitCode": "Creare declarație ANAF",
     "etransportuitCodeDateFrom": "Data început",
     "active": "Activ",
-    "inactive": "Invalid",
+    "inactive": "Inactiv",
     "etransportScheduledCanceledDescription": "Declarația a fost anulată, și nu poate fi modificată.",
     "etransportScheduledCanceledTitle": "Declarația a fost anulată",
     "schedulerCantModified": "Declarația nu poate fi suprascrisă.",
