@@ -402,5 +402,7 @@
     "enableCameraPermission": "Kamera-Berechtigung aktivieren",
     "enableCameraPermissionMessage": "Um die Kamera-Funktion zu verwenden, aktivieren Sie bitte die Kamera-Berechtigung in den Einstellungen Ihres Telefons.",
     "undelivered": "Nicht geliefert",
-    "uitVehicleNoContractError": "Das dem UIT-Code zugewiesene Fahrzeug ist keinem e-Transport-Vertrag zugeordnet, daher werden keine Fahrzeugdaten übertragen."
+    "uitVehicleNoContractError": "Das dem UIT-Code zugewiesene Fahrzeug ist keinem e-Transport-Vertrag zugeordnet, daher werden keine Fahrzeugdaten übertragen.",
+    "etransportUitDelivered": "UIT als geliefert markieren",
+    "etransportUitUndelivered": "UIT als nicht geliefert markieren"
 }

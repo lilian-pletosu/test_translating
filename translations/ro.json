@@ -389,6 +389,7 @@
     "delivered": "Livrat",
     "etransportUitMarkDelivered": "Marchează Livrat",
     "etransportUitDelivered": "UIT a fost marcat ca fiind livrat",
+    "etransportUitUndelivered": "UIT a fost marcat ca fiind nelivrat",
     "uitWasDeliveredAt": "UIT a fost marcat ca fiind livrat la:",
     "notificationTestSuccess": "Notificarea a fost trimisă cu succes!",
     "notificationTestError": "Eroare la trimiterea notificării!",

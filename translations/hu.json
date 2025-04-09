@@ -389,6 +389,7 @@
     "delivered": "Törölve",
     "etransportUitMarkDelivered": "Törölve",
     "etransportUitDelivered": "Törölve",
+    "etransportUitUndelivered": "Nem kézbesítve",
     "uitWasDeliveredAt": "Törölve:",
     "notificationTestSuccess": "Sikeres teszt értesítés",
     "notificationTestError": "Sikertelen teszt értesítés",

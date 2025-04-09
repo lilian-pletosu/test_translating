@@ -388,6 +388,7 @@
     "delivered": "Delivered",
     "etransportUitMarkDelivered": "Mark as delivered",
     "etransportUitDelivered": "UIT was marked as delivered",
+    "etransportUitUndelivered": "UIT was marked as undelivered",
     "uitWasDeliveredAt": "UIT was marked as delivered at:",
     "notificationTestSuccess": "Notification test sent successfully!",
     "notificationTestError": "Notification test failed!",

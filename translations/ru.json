@@ -389,6 +389,7 @@
     "delivered": "Доставлен",
     "etransportUitMarkDelivered": "Отметить как доставленный",
     "etransportUitDelivered": "UIT доставлен",
+    "etransportUitUndelivered": "UIT не доставлен",
     "uitWasDeliveredAt" : "UIT был доставлен в:",
     "notificationTestSuccess": "Тестовое уведомление отправлено",
     "notificationTestError": "Тестовое уведомление не отправлено",
