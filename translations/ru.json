@@ -77,7 +77,7 @@
     "etransportSchedulePlanned": "Планируется",
     "etransportScheduleCanceled": "Аннулировано",
     "etransportScheduleCancel": "Отменить планирование",
-    "etransportStopTransmission": "ОСТАНОВИТЬ ПЕРЕДАЧУ СЕЙЧАС",
+    "etransportStopTransmission": "ОСТАНОВИТЬ ПЕРЕДАЧУ",
     "etransportScheduleSaved": "Планирование успешно сохранено!",
     "etransportScheduleTransmissionStoped": "Передача успешно остановлена!",
     "etransportScheduleTransmissionCanceled": "Передача успешно отменена!",
