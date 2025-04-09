@@ -402,5 +402,5 @@
     "acknowledgeRiskNoDataUpdate": "Am luat la cunoștință riscul salvării fără o transmisie de date actualizată.",
     "permisionCamera": "Permisiunea pentru camera nu este activată",
     "enableCameraPermissionMessage": "Pentru a putea utiliza funcția de fotografiere, vă rugăm să activați permisiunea pentru camera din setările telefonului.",
-    "activate": "Activați"
+    "undelivered": "Nelivrat"
 }

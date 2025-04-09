@@ -402,5 +402,5 @@
     "acknowledgeRiskNoDataUpdate": "Tudomásul vettem a mentés kockázatát frissített adatátvitel nélkül.",
     "enableCameraPermission": "Engedélyezés",
     "enableCameraPermissionMessage": "A képernyőfelvétel engedélyezéséhez engedélyezze a kamera engedélyezését a telefon beállításaiban.",
-    "activate": "Aktiválás"
+    "undelivered": "Nem kézbesítve"
 }

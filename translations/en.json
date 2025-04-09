@@ -401,5 +401,5 @@
     "acknowledgeRiskNoDataUpdate": "I acknowledge the risk of saving without an updated data transmission.",
     "enableCameraPermission": "Enable camera permission",
     "enableCameraPermissionMessage": "To use the camera function, please enable the camera permission in the phone's settings.",
-    "activate": "Activate"
+    "undelivered": "Undelivered"
 }

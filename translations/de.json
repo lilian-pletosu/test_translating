@@ -401,5 +401,5 @@
     "acknowledgeRiskNoDataUpdate": "Ich nehme das Risiko einer Speicherung ohne aktualisierte Datenübertragung zur Kenntnis.",
     "enableCameraPermission": "Kamera-Berechtigung aktivieren",
     "enableCameraPermissionMessage": "Um die Kamera-Funktion zu verwenden, aktivieren Sie bitte die Kamera-Berechtigung in den Einstellungen Ihres Telefons.",
-    "activate": "Aktivieren"
+    "undelivered": "Nicht geliefert"
 }
