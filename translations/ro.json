@@ -385,6 +385,7 @@
     "confirmCancelMessage": "Sunteți sigur că doriți să anulați?",
     "confirmAction": "Confirmă acțiunea",
     "confirmActionMessageMakeUITDelivered": "Sunteți sigur că doriți să marcați ca fiind livrat?",
+    "confirmActionMessageMakeUITActiv": "Sunteți sigur că doriți să marcați ca fiind valid?",
     "delivered": "Livrat",
     "etransportUitMarkDelivered": "Marchează Livrat",
     "etransportUitDelivered": "UIT a fost marcat ca fiind livrat",
@@ -400,5 +401,6 @@
     "vehicleDeviceNoDataTransmission": "Dispozitivul vehiculului nu are o transmisie de date actualizată către serverul CargoTrack. Prin urmare, este posibil ca poziția vehiculului să nu fie disponibilă în acest moment pentru a porni transmisia de date.",
     "acknowledgeRiskNoDataUpdate": "Am luat la cunoștință riscul salvării fără o transmisie de date actualizată.",
     "permisionCamera": "Permisiunea pentru camera nu este activată",
-    "enableCameraPermissionMessage": "Pentru a putea utiliza funcția de fotografiere, vă rugăm să activați permisiunea pentru camera din setările telefonului."
+    "enableCameraPermissionMessage": "Pentru a putea utiliza funcția de fotografiere, vă rugăm să activați permisiunea pentru camera din setările telefonului.",
+    "activate": "Activați"
 }

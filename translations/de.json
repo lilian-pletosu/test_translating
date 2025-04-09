@@ -385,6 +385,7 @@
     "confirmCancelMessage": "Sind Sie sicher, dass Sie abbrechen möchten?",
     "confirmAction": "Bestätigen",
     "confirmActionMessageMakeUITDelivered": "Sind Sie sicher, dass Sie die Uit-Lieferung bestätigen möchten?",
+    "confirmActionMessageMakeUITActiv": "Sind Sie sicher, dass Sie die Uit aktivieren möchten?",
     "delivered": "Geliefert",
     "etransportUitMarkDelivered": "Lieferung bestätigen",
     "uitWasDeliveredAt": "Uit wurde am:",
@@ -399,5 +400,6 @@
     "vehicleDeviceNoDataTransmission": "Das Gerät des Fahrzeugs hat keine aktualisierte Datenübertragung zum CargoTrack-Server. Daher ist die Position des Fahrzeugs möglicherweise zu diesem Zeitpunkt nicht verfügbar, um die Datenübertragung zu starten.",
     "acknowledgeRiskNoDataUpdate": "Ich nehme das Risiko einer Speicherung ohne aktualisierte Datenübertragung zur Kenntnis.",
     "enableCameraPermission": "Kamera-Berechtigung aktivieren",
-    "enableCameraPermissionMessage": "Um die Kamera-Funktion zu verwenden, aktivieren Sie bitte die Kamera-Berechtigung in den Einstellungen Ihres Telefons."
+    "enableCameraPermissionMessage": "Um die Kamera-Funktion zu verwenden, aktivieren Sie bitte die Kamera-Berechtigung in den Einstellungen Ihres Telefons.",
+    "activate": "Aktivieren"
 }

@@ -384,6 +384,7 @@
     "confirmCancelMessage": "Are you sure you want to cancel?",
     "confirmAction": "Confirm action",
     "confirmActionMessageMakeUITDelivered": "Are you sure you want to mark the UIT as delivered?",
+    "confirmActionMessageMakeUITActiv": "Are you sure you want to mark the UIT as active?",
     "delivered": "Delivered",
     "etransportUitMarkDelivered": "Mark as delivered",
     "etransportUitDelivered": "UIT was marked as delivered",
@@ -399,5 +400,6 @@
     "vehicleDeviceNoDataTransmission": "The vehicle's device does not have an updated data transmission to the CargoTrack server. Therefore, the vehicle's position may not be available at this time to start the data transmission.",
     "acknowledgeRiskNoDataUpdate": "I acknowledge the risk of saving without an updated data transmission.",
     "enableCameraPermission": "Enable camera permission",
-    "enableCameraPermissionMessage": "To use the camera function, please enable the camera permission in the phone's settings."
+    "enableCameraPermissionMessage": "To use the camera function, please enable the camera permission in the phone's settings.",
+    "activate": "Activate"
 }
