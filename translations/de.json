@@ -401,5 +401,6 @@
     "acknowledgeRiskNoDataUpdate": "Ich nehme das Risiko einer Speicherung ohne aktualisierte Datenübertragung zur Kenntnis.",
     "enableCameraPermission": "Kamera-Berechtigung aktivieren",
     "enableCameraPermissionMessage": "Um die Kamera-Funktion zu verwenden, aktivieren Sie bitte die Kamera-Berechtigung in den Einstellungen Ihres Telefons.",
-    "undelivered": "Nicht geliefert"
+    "undelivered": "Nicht geliefert",
+    "uitVehicleNoContractError": "Das dem UIT-Code zugewiesene Fahrzeug ist keinem e-Transport-Vertrag zugeordnet, daher werden keine Fahrzeugdaten übertragen."
 }

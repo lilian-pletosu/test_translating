@@ -402,5 +402,6 @@
     "acknowledgeRiskNoDataUpdate": "Tudomásul vettem a mentés kockázatát frissített adatátvitel nélkül.",
     "enableCameraPermission": "Engedélyezés",
     "enableCameraPermissionMessage": "A képernyőfelvétel engedélyezéséhez engedélyezze a kamera engedélyezését a telefon beállításaiban.",
-    "undelivered": "Nem kézbesítve"
+    "undelivered": "Nem kézbesítve",
+    "uitVehicleNoContractError": "A UIT-kódhoz rendelt jármű nincs e-Transport szerződéshez társítva, ezért a járműadatok továbbítása nem történik meg."
 }

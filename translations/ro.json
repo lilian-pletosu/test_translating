@@ -402,5 +402,7 @@
     "acknowledgeRiskNoDataUpdate": "Am luat la cunoștință riscul salvării fără o transmisie de date actualizată.",
     "permisionCamera": "Permisiunea pentru camera nu este activată",
     "enableCameraPermissionMessage": "Pentru a putea utiliza funcția de fotografiere, vă rugăm să activați permisiunea pentru camera din setările telefonului.",
-    "undelivered": "Nelivrat"
+    "undelivered": "Nelivrat",
+    "uitVehicleNoContractError": "Vehiculul alocat codului UIT nu este asociat unui contract e-Transport, motiv pentru care nu se vor efectua transmisii de date ale vehiculelor."
+
 }
