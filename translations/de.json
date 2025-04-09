@@ -397,5 +397,7 @@
     "modalWillClosedAuto": "Das Modal wird automatisch geschlossen",
     "confirmActionMessageDeleteUit": "Sind Sie sicher, dass Sie die Uit löschen möchten?",
     "vehicleDeviceNoDataTransmission": "Das Gerät des Fahrzeugs hat keine aktualisierte Datenübertragung zum CargoTrack-Server. Daher ist die Position des Fahrzeugs möglicherweise zu diesem Zeitpunkt nicht verfügbar, um die Datenübertragung zu starten.",
-    "acknowledgeRiskNoDataUpdate": "Ich nehme das Risiko einer Speicherung ohne aktualisierte Datenübertragung zur Kenntnis."
+    "acknowledgeRiskNoDataUpdate": "Ich nehme das Risiko einer Speicherung ohne aktualisierte Datenübertragung zur Kenntnis.",
+    "enableCameraPermission": "Kamera-Berechtigung aktivieren",
+    "enableCameraPermissionMessage": "Um die Kamera-Funktion zu verwenden, aktivieren Sie bitte die Kamera-Berechtigung in den Einstellungen Ihres Telefons."
 }

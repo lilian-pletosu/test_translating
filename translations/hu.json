@@ -398,5 +398,7 @@
     "modalWillClosedAuto": "Az ablak automatikusan bezáródik",
     "confirmActionMessageDeleteUit": "Biztosan törölni szeretné?",
     "vehicleDeviceNoDataTransmission" :"A jármű eszköze nem rendelkezik frissített adatátvitellel a CargoTrack szerver felé. Ezért előfordulhat, hogy a jármű pozíciója jelenleg nem érhető el az adatátvitel elindításához.",
-    "acknowledgeRiskNoDataUpdate": "Tudomásul vettem a mentés kockázatát frissített adatátvitel nélkül."
+    "acknowledgeRiskNoDataUpdate": "Tudomásul vettem a mentés kockázatát frissített adatátvitel nélkül.",
+    "enableCameraPermission": "Engedélyezés",
+    "enableCameraPermissionMessage": "A képernyőfelvétel engedélyezéséhez engedélyezze a kamera engedélyezését a telefon beállításaiban."
 }

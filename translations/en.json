@@ -397,5 +397,7 @@
     "modalWillClosedAuto": "The modal will be closed automatically",
     "confirmActionMessageDeleteUit": "Are you sure you want to delete the UIT?",
     "vehicleDeviceNoDataTransmission": "The vehicle's device does not have an updated data transmission to the CargoTrack server. Therefore, the vehicle's position may not be available at this time to start the data transmission.",
-    "acknowledgeRiskNoDataUpdate": "I acknowledge the risk of saving without an updated data transmission."
+    "acknowledgeRiskNoDataUpdate": "I acknowledge the risk of saving without an updated data transmission.",
+    "enableCameraPermission": "Enable camera permission",
+    "enableCameraPermissionMessage": "To use the camera function, please enable the camera permission in the phone's settings."
 }

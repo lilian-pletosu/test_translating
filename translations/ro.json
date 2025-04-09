@@ -398,5 +398,7 @@
     "modalWillClosedAuto": "Modalul se va închide automat",
     "confirmActionMessageDeleteUit": "Sunteți sigur că doriți să ștergeți UIT?",
     "vehicleDeviceNoDataTransmission": "Dispozitivul vehiculului nu are o transmisie de date actualizată către serverul CargoTrack. Prin urmare, este posibil ca poziția vehiculului să nu fie disponibilă în acest moment pentru a porni transmisia de date.",
-    "acknowledgeRiskNoDataUpdate": "Am luat la cunoștință riscul salvării fără o transmisie de date actualizată."
+    "acknowledgeRiskNoDataUpdate": "Am luat la cunoștință riscul salvării fără o transmisie de date actualizată.",
+    "permisionCamera": "Permisiunea pentru camera nu este activată",
+    "enableCameraPermissionMessage": "Pentru a putea utiliza funcția de fotografiere, vă rugăm să activați permisiunea pentru camera din setările telefonului."
 }
