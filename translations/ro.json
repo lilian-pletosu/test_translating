@@ -353,7 +353,7 @@
     "events": "Evenimente",
     "currentVehicle": "Vehicul curent",
     "etransportUitViewDeclarationList": "Vehicule declarate pentru transmitere date GPS",
-    "etransportStatusSynced": "Înregistrat",
+    "etransportStatusSynced": "Declarat",
     "etransportStatusApproved": "În procesare",
     "etransportStatusFailed": "Eșuat",
     "etransportStatusCanceled": "Anulat",
