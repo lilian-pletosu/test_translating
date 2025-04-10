@@ -94,7 +94,7 @@
     "etransportUitStopGPSData": "Stop transmitere date GPS",
     "etransportUitGPSDataStarted": "Transmiterea datelor GPS este pornită",
     "etransportUitSaveAndClose": "Salvează și Închide",
-    "etransportUitStartDialogTitle": "Configurează intervalul de transmitere a datelor GPS pentru vehicul",
+    "etransportUitStartDialogTitle": "Modifică intervalul de transmitere date",
     "etransportUitChangeVehiculeDialogTitle": "Schimbare vehicul",
     "etransportUitStartIntervalIsPast": "Intervalul selectat este în trecut!",
     "etransportUitStartChooseVehicle": "Alegeți vehiculul!",
@@ -405,5 +405,4 @@
     "enableCameraPermissionMessage": "Pentru a putea utiliza funcția de fotografiere, vă rugăm să activați permisiunea pentru camera din setările telefonului.",
     "undelivered": "Nelivrat",
     "uitVehicleNoContractError": "Vehiculul alocat codului UIT nu este asociat unui contract e-Transport, motiv pentru care nu se vor efectua transmisii de date ale vehiculelor."
-
 }
