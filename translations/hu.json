@@ -404,5 +404,6 @@
     "enableCameraPermission": "Engedélyezés",
     "enableCameraPermissionMessage": "A képernyőfelvétel engedélyezéséhez engedélyezze a kamera engedélyezését a telefon beállításaiban.",
     "undelivered": "Nem kézbesítve",
-    "uitVehicleNoContractError": "A UIT-kódhoz rendelt jármű nincs e-Transport szerződéshez társítva, ezért a járműadatok továbbítása nem történik meg."
+    "uitVehicleNoContractError": "A UIT-kódhoz rendelt jármű nincs e-Transport szerződéshez társítva, ezért a járműadatok továbbítása nem történik meg.",
+    "cameraPermissionDeniedMessage": "Nem adott engedélyt a kamera használatához. Engedélyezze a hozzáférést a telefon beállításaiban."
 }
