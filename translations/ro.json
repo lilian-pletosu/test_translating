@@ -104,7 +104,7 @@
     "etransportConfirm": "Confirmă",
     "etransportUitViewScheduleList": "Planificări transmitere date GPS",
     "etransportUitViewScheduleIntervalTransmittingGPS": "Interval transmitere date GPS",
-    "etransportUitScheduleViewInfo": "În perioada selectată, locația vehiculului va fi transmisă automat prin GPS",
+    "etransportUitScheduleViewInfo": "În perioada selectată, locația vehiculului va fi transmisă automat către ANAF dacă vehiculul este pe teritoriul României!",
     "etransportUitScheduleVehicle": "Replanifică Vehicul",
     "etransportUitEditScheduleVehicle": "Editează planificare",
     "etransportUITCodeDeleteVehicle": "Ștergere vehicul",
