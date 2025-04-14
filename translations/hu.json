@@ -406,5 +406,9 @@
     "undelivered": "Nem kézbesítve",
     "uitVehicleNoContractError": "A UIT-kódhoz rendelt jármű nincs e-Transport szerződéshez társítva, ezért a járműadatok továbbítása nem történik meg.",
     "cameraPermissionDeniedMessage": "Nem adott engedélyt a kamera használatához. Engedélyezze a hozzáférést a telefon beállításaiban.",
-    "uitNotificationError3": "A jármű nincs hozzárendelve a(z) {{name}} partner eTransport szerződéséhez! Kérjük, lépjen kapcsolatba az ügyfélszolgálattal!"
+    "uitNotificationError3": "A jármű nincs hozzárendelve a(z) {{name}} partner eTransport szerződéséhez! Kérjük, lépjen kapcsolatba az ügyfélszolgálattal!",
+    "uitNotificationError1": "A UIT-hez rendelt jármű nincs figyelve a CargoTrack rendszerben!",
+    "uitNotificationError2": "A UIT-hez rendelt jármű nincs hozzárendelve az Ön felhasználói fiókjához! Kérjük, lépjen kapcsolatba az ügyfélszolgálattal!",
+    "uitNotificationError4": "Nincs eTransport szerződés társítva az Ön fiókjához! Kérjük, lépjen kapcsolatba az ügyfélszolgálattal!",
+    "uitNotificationError5": "A UIT-hez rendelt jármű nincs rajta az Ön eTransport szerződésén! Kérjük, lépjen kapcsolatba az ügyfélszolgálattal!"
 }

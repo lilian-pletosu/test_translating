@@ -406,5 +406,9 @@
     "etransportUitDelivered": "UIT als geliefert markieren",
     "etransportUitUndelivered": "UIT als nicht geliefert markieren",
     "cameraPermissionDeniedMessage": "Sie haben keine Berechtigung zur Nutzung der Kamera erteilt. Bitte erlauben Sie den Kamerazugriff in den Telefoneinstellungen.",
-    "uitNotificationError3": "Das Fahrzeug ist dem eTransport-Vertrag des Partners {{name}} nicht zugewiesen! Bitte wenden Sie sich an das Support-Team!"
+    "uitNotificationError1": "Das dem UIT zugewiesene Fahrzeug wird im CargoTrack-System nicht überwacht!",
+    "uitNotificationError2": "Das dem UIT zugewiesene Fahrzeug ist nicht Ihrem Benutzerkonto zugeordnet! Bitte wenden Sie sich an das Support-Team!",
+    "uitNotificationError3": "Das Fahrzeug ist dem eTransport-Vertrag des Partners {{name}} nicht zugewiesen! Bitte wenden Sie sich an das Support-Team!",
+    "uitNotificationError4": "Es ist kein eTransport-Vertrag mit Ihrem Konto verknüpft! Bitte wenden Sie sich an das Support-Team!",
+    "uitNotificationError5": "Das dem UIT zugewiesene Fahrzeug befindet sich nicht in Ihrem eTransport-Vertrag! Bitte wenden Sie sich an das Support-Team!"
 }

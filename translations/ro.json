@@ -406,5 +406,9 @@
     "undelivered": "Nelivrat",
     "uitVehicleNoContractError": "Vehiculul alocat codului UIT nu este asociat unui contract e-Transport, motiv pentru care nu se vor efectua transmisii de date ale vehiculelor.",
     "cameraPermissionDeniedMessage": "Nu ați acordat permisiunile pentru utilizarea camerei. Acordați permisiunile din setările telefonului.",
-    "uitNotificationError3": "Vehiculul nu este alocat pe contractul de eTransport al partenerului {{name}}! Contactați echipa de suport!"
+    "uitNotificationError1": "Vehiculul alocat pe UIT nu este monitorizat în sistemul CargoTrack!",
+    "uitNotificationError2": "Vehiculul alocat pe UIT nu este alocat pe utilizatorul dumneavoastră! Contactați echipa de suport!",
+    "uitNotificationError3": "Vehiculul nu este alocat pe contractul de eTransport al partenerului {{name}}! Contactați echipa de suport!",
+    "uitNotificationError4": "Nu există un contract de eTransport asociat contului dumneavoastră! Contactați echipa de suport!",
+    "uitNotificationError5": "Vehiculul alocat pe UIT nu se află pe contractul dumneavoastră de eTransport! Contactați echipa de suport!"
 }

@@ -405,5 +405,9 @@
     "undelivered": "Undelivered",
     "uitVehicleNoContractError": "The vehicle assigned to the UIT code is not associated with an e-Transport contract, therefore no vehicle data transmissions will be made.",
     "cameraPermissionDeniedMessage": "You have not granted permission to use the camera. Please allow camera access in your phone settings.",
-    "uitNotificationError3": "The vehicle is not assigned to the eTransport contract of partner {{name}}! Please contact the support team!"
+    "uitNotificationError1": "The vehicle assigned to UIT is not monitored in the CargoTrack system!",
+    "uitNotificationError2": "The vehicle assigned to UIT is not linked to your user account! Please contact the support team!",
+    "uitNotificationError3": "The vehicle is not assigned to the eTransport contract of partner {{name}}! Please contact the support team!",
+    "uitNotificationError4": "There is no eTransport contract associated with your account! Please contact the support team!",
+    "uitNotificationError5": "The vehicle assigned to UIT is not on your eTransport contract! Please contact the support team!"
 }
