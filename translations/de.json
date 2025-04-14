@@ -405,5 +405,6 @@
     "uitVehicleNoContractError": "Das dem UIT-Code zugewiesene Fahrzeug ist keinem e-Transport-Vertrag zugeordnet, daher werden keine Fahrzeugdaten übertragen.",
     "etransportUitDelivered": "UIT als geliefert markieren",
     "etransportUitUndelivered": "UIT als nicht geliefert markieren",
-    "cameraPermissionDeniedMessage": "Sie haben keine Berechtigung zur Nutzung der Kamera erteilt. Bitte erlauben Sie den Kamerazugriff in den Telefoneinstellungen."
+    "cameraPermissionDeniedMessage": "Sie haben keine Berechtigung zur Nutzung der Kamera erteilt. Bitte erlauben Sie den Kamerazugriff in den Telefoneinstellungen.",
+    "uitNotificationError3": "Das Fahrzeug ist dem eTransport-Vertrag des Partners {{name}} nicht zugewiesen! Bitte wenden Sie sich an das Support-Team!"
 }

@@ -405,5 +405,6 @@
     "enableCameraPermissionMessage": "Pentru a putea utiliza funcția de fotografiere, vă rugăm să activați permisiunea pentru camera din setările telefonului.",
     "undelivered": "Nelivrat",
     "uitVehicleNoContractError": "Vehiculul alocat codului UIT nu este asociat unui contract e-Transport, motiv pentru care nu se vor efectua transmisii de date ale vehiculelor.",
-    "cameraPermissionDeniedMessage": "Nu ați acordat permisiunile pentru utilizarea camerei. Acordați permisiunile din setările telefonului."
+    "cameraPermissionDeniedMessage": "Nu ați acordat permisiunile pentru utilizarea camerei. Acordați permisiunile din setările telefonului.",
+    "uitNotificationError3": "Vehiculul nu este alocat pe contractul de eTransport al partenerului {{name}}! Contactați echipa de suport!"
 }
