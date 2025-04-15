@@ -395,7 +395,7 @@
     "notificationTestError": "Eroare la trimiterea notificării!",
     "etransportUitDeletedMessage": "UIT a fost șters cu succes!",
     "delete": "Șterge",
-    "confirmManualSendToAnaf": "Este necesar să modificați manual vehiculul în e-Transport (ANAF). Acest pas nu se face automat și trebuie efectuat direct de dumneavoastră în platforma ANAF.",
+    "confirmManualSendToAnaf": "Este necesar să introduceți manual vehiculul în e-Transport (ANAF). Acest pas nu se face automat și trebuie efectuat direct de dumneavoastră în platforma ANAF.",
     "confirmManualSendToAnafTitle": "Atenție!",
     "modalWillClosedAuto": "Modalul se va închide automat",
     "confirmActionMessageDeleteUit": "Sunteți sigur că doriți să ștergeți UIT?",
