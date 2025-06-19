@@ -381,7 +381,7 @@
     "plCargobox": "carGObox Lengyelország",
     "noRoadtaxInfo": "Nincs információ az útdíjról.",
     "etransportDeclarationCanceled": "Nyilatkozat törölve",
-    "confirmCancel": "Törlés megerősítése", 
+    "confirmCancel": "Törlés megerősítése",
     "confirmCancelMessage": "Biztosan törölni szeretné?",
     "confirmAction": "Megerősítés",
     "confirmActionMessageMakeUITDelivered": "Biztosan törölni szeretné?",
@@ -399,7 +399,7 @@
     "confirmManualSendToAnafTitle": "Figyelem!",
     "modalWillClosedAuto": "Az ablak automatikusan bezáródik",
     "confirmActionMessageDeleteUit": "Biztosan törölni szeretné?",
-    "vehicleDeviceNoDataTransmission" :"A jármű eszköze nem rendelkezik frissített adatátvitellel a CargoTrack szerver felé. Ezért előfordulhat, hogy a jármű pozíciója jelenleg nem érhető el az adatátvitel elindításához.",
+    "vehicleDeviceNoDataTransmission": "A jármű eszköze nem rendelkezik frissített adatátvitellel a CargoTrack szerver felé. Ezért előfordulhat, hogy a jármű pozíciója jelenleg nem érhető el az adatátvitel elindításához.",
     "acknowledgeRiskNoDataUpdate": "Tudomásul vettem a mentés kockázatát frissített adatátvitel nélkül.",
     "enableCameraPermission": "Engedélyezés",
     "enableCameraPermissionMessage": "A képernyőfelvétel engedélyezéséhez engedélyezze a kamera engedélyezését a telefon beállításaiban.",
@@ -412,5 +412,5 @@
     "uitNotificationError4": "Nincs eTransport szerződés társítva az Ön fiókjához! Kérjük, lépjen kapcsolatba az ügyfélszolgálattal!",
     "uitNotificationError5": "A UIT-hez rendelt jármű nincs rajta az Ön eTransport szerződésén! Kérjük, lépjen kapcsolatba az ügyfélszolgálattal!",
     "cargoboxBalanceInfo": "A rendelkezésre álló egyenlegét napi szinten erősítjük meg, az előző napi tranzakciók feldolgozása alapján.\nA negatív egyenleg elkerülése érdekében a CargoTrack rendszer becslést végez a jelen pillanatig kifizetett útdíjak értékéről. \nHa az egyenleg nem elegendő az útdíjak fedezésére, ezek az útdíjak fizetetlenek maradnak, amíg a fiók feltöltésre nem kerül - de legkésőbb 48 órával azután, hogy az egyenleg negatívvá válik.\nA franciaországi útdíj domén esetében az útdíj-megerősítéseket kéthetente dolgozzuk fel. Az összes fizetéssel kapcsolatos részlet megtalálható a „Tranzakciók” szakaszban!",
-    "cargoboxBalanceUnpaid": "A fiók egyenlege nem elegendő, és a kapcsolódó útdíjak nem lettek kifizetve. Az útdíjszolgáltatónak történő fizetés csak a fiók feltöltése után lesz lehetséges. Kérjük, vegye figyelembe, hogy ebben az időszakban az útdíjak nem fizetése miatt esetlegesen felmerülő bírságokért mi nem vagyunk felelősek!"
+    "cargoboxBalanceUnpaid": "nem fizetett CargoBox díjak"
 }
