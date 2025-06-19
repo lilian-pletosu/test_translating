@@ -410,5 +410,7 @@
     "uitNotificationError2": "Vehiculul alocat pe UIT nu este alocat pe utilizatorul dumneavoastră! Contactați echipa de suport!",
     "uitNotificationError3": "Vehiculul nu este alocat pe contractul de eTransport al partenerului {{name}}! Contactați echipa de suport!",
     "uitNotificationError4": "Nu există un contract de eTransport asociat contului dumneavoastră! Contactați echipa de suport!",
-    "uitNotificationError5": "Vehiculul alocat pe UIT nu se află pe contractul dumneavoastră de eTransport! Contactați echipa de suport!"
+    "uitNotificationError5": "Vehiculul alocat pe UIT nu se află pe contractul dumneavoastră de eTransport! Contactați echipa de suport!",
+    "cargoboxBalanceInfo": "Soldul disponibil este confirmat zilnic, în urma procesării tranzacțiilor aferente zilei precedente.\nPentru a preveni intrarea pe sold negativ, sistemul CargoTrack estimează valoarea taxelor de drum achitate până în prezent.\nÎn cazul în care soldul dumneavoastră este insuficient pentru achitarea taxelor de drum, acestea vor rămâne neachitate până la reîncărcarea contului, dar nu mai târziu de 48 de ore de la momentul intrării pe sold negativ.\nPentru domeniul taxabil Franța, confirmarea taxelor achitate se realizează bilunar. Toate detaliile referitoare la plățile efectuate pot fi consultate în secțiunea „Tranzacții”!",
+    "cargoboxBalanceUnpaid": "Soldul dumneavoastră este insuficient, iar taxele de drum aferente nu au fost achitate. Achitarea către operator a acestora va fi posibilă doar după alimentarea contului. Vă informăm că, în această perioadă, eventualele amenzi generate ca urmare a neachitării taxelor de drum nu reprezintă responsabilitatea noastră!"
 }

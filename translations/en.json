@@ -409,5 +409,7 @@
     "uitNotificationError2": "The vehicle assigned to UIT is not linked to your user account! Please contact the support team!",
     "uitNotificationError3": "The vehicle is not assigned to the eTransport contract of partner {{name}}! Please contact the support team!",
     "uitNotificationError4": "There is no eTransport contract associated with your account! Please contact the support team!",
-    "uitNotificationError5": "The vehicle assigned to UIT is not on your eTransport contract! Please contact the support team!"
+    "uitNotificationError5": "The vehicle assigned to UIT is not on your eTransport contract! Please contact the support team!",
+    "cargoboxBalanceInfo": "The available balance is confirmed daily, based on the processing of transactions from the previous day. To prevent a negative balance, the CargoTrack system estimates the value of tolls paid up to the present moment.\nIf your balance is insufficient to cover the tolls, these will remain unpaid until the account is topped up — but no later than 48 hours after the balance becomes negative.\nFor the France toll domain, toll confirmations are processed bi-weekly. All payment-related details can be found in the “Transactions” section!",
+    "cargoboxBalanceUnpaid": "Your account balance is insufficient, and the related tolls have not been paid. Payment to the toll operator will only be possible after the account is topped up. Please note that during this period, any fines incurred due to unpaid tolls are not our responsibility!"
 }
