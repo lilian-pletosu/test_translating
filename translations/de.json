@@ -412,5 +412,5 @@
     "uitNotificationError4": "Es ist kein eTransport-Vertrag mit Ihrem Konto verknüpft! Bitte wenden Sie sich an das Support-Team!",
     "uitNotificationError5": "Das dem UIT zugewiesene Fahrzeug befindet sich nicht in Ihrem eTransport-Vertrag! Bitte wenden Sie sich an das Support-Team!",
     "cargoboxBalanceInfo": "",
-    "cargoboxBalanceUnpaid": ""
+    "cargoboxBalanceUnpaid": "unbezahlte CargoBox-Gebühren"
 }
