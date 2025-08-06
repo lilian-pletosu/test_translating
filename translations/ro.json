@@ -335,7 +335,7 @@
     "cargobox": "carGObox",
     "inPending": "ÎN AȘTEPTARE",
     "paymentInformation": "Informatii de plata",
-    "paymentInformationNote": "Deoarece la data întocmirii centralizatorului de plată soldul contului a fost negativ trebuie achitat soldul centralizatorului înainte de a face alte încărcări de cont!",
+    "paymentInformationNote": "Deoarece, la data întocmirii centralizatorului de plată, soldul contului era negativ, împreună cu centralizatorul a fost emisă și o factură ce include costurile restante aferente taxelor de drum din luna precedentă. Încărcarea contului cu orice altă sumă va fi posibilă doar după achitarea acestei facturi.",
     "paymentInformationInvoice": "Puteti vizualiza și descărca centralizatorul de plata in sectiunea de Facturi - CargoTrack a modulului carGObox!",
     "paymentInformationPayment": "Plata centralizatoarelor de plată se poate face doar prin transfer bancar! Vă rugăm să transmiteți confirmarea plății pe email pentru procesarea cu prioritate a plății!",
     "paymentMethodTitle": "Va rugam sa alegeti metoda de plata",
