@@ -423,5 +423,6 @@
     "tollDomainStatus7": "Cerere de reziliere",
     "tollDomainStatus9": "Inactiv",
     "tollDomainStatus99": "Inactiv",
-    "tollDomainStatus-1": "Inactiv"
+    "tollDomainStatus-1": "Inactiv",
+    "searchTollDomain" : "Cautati domeniu taxabil"
 }
