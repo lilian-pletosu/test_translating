@@ -412,5 +412,15 @@
     "uitNotificationError4": "Es ist kein eTransport-Vertrag mit Ihrem Konto verknüpft! Bitte wenden Sie sich an das Support-Team!",
     "uitNotificationError5": "Das dem UIT zugewiesene Fahrzeug befindet sich nicht in Ihrem eTransport-Vertrag! Bitte wenden Sie sich an das Support-Team!",
     "cargoboxBalanceInfo": "",
-    "cargoboxBalanceUnpaid": "unbezahlte CargoBox-Gebühren"
+    "cargoboxBalanceUnpaid": "unbezahlte CargoBox-Gebühren",
+    "tollDomainStatus10": "Cerere de activare",
+    "tollDomainStatus1": "Activ",
+    "tollDomainStatus4": "Cerere de suspendare",
+    "tollDomainStatus31": "Suspendat",
+    "tollDomainStatus29": "Inactiv",
+    "tollDomainStatus30": "Inactiv",
+    "tollDomainStatus7": "Cerere de reziliere",
+    "tollDomainStatus9": "Inactiv",
+    "tollDomainStatus99": "Inactiv",
+    "tollDomainStatus-1": "Inactiv"
 }

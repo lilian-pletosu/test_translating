@@ -413,5 +413,15 @@
     "uitNotificationError5": "A UIT-hez rendelt jármű nincs rajta az Ön eTransport szerződésén! Kérjük, lépjen kapcsolatba az ügyfélszolgálattal!",
     "cargoboxBalanceInfo": "A rendelkezésre álló egyenlegét napi szinten erősítjük meg, az előző napi tranzakciók feldolgozása alapján.\nA negatív egyenleg elkerülése érdekében a CargoTrack rendszer becslést végez a jelen pillanatig kifizetett útdíjak értékéről. \nHa az egyenleg nem elegendő az útdíjak fedezésére, ezek az útdíjak fizetetlenek maradnak, amíg a fiók feltöltésre nem kerül - de legkésőbb 48 órával azután, hogy az egyenleg negatívvá válik.\nA franciaországi útdíj domén esetében az útdíj-megerősítéseket kéthetente dolgozzuk fel. Az összes fizetéssel kapcsolatos részlet megtalálható a „Tranzakciók” szakaszban!",
     "cargoboxBalanceUnpaid": "nem fizetett CargoBox díjak",
-    "cargoboxBalanceUnpaidInfo": "A fiók egyenlege nem elegendő, és a kapcsolódó útdíjak nem lettek kifizetve.\nAz útdíjszolgáltatónak történő fizetés csak a fiók feltöltése után lesz lehetséges.\nKérjük, vegye figyelembe, hogy ebben az időszakban az útdíjak nem fizetése miatt esetlegesen felmerülő bírságokért mi nem vagyunk felelősek!"
+    "cargoboxBalanceUnpaidInfo": "A fiók egyenlege nem elegendő, és a kapcsolódó útdíjak nem lettek kifizetve.\nAz útdíjszolgáltatónak történő fizetés csak a fiók feltöltése után lesz lehetséges.\nKérjük, vegye figyelembe, hogy ebben az időszakban az útdíjak nem fizetése miatt esetlegesen felmerülő bírságokért mi nem vagyunk felelősek!",
+    "tollDomainStatus10": "Cerere de activare",
+    "tollDomainStatus1": "Activ",
+    "tollDomainStatus4": "Cerere de suspendare",
+    "tollDomainStatus31": "Suspendat",
+    "tollDomainStatus29": "Inactiv",
+    "tollDomainStatus30": "Inactiv",
+    "tollDomainStatus7": "Cerere de reziliere",
+    "tollDomainStatus9": "Inactiv",
+    "tollDomainStatus99": "Inactiv",
+    "tollDomainStatus-1": "Inactiv"
 }
