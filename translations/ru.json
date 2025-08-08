@@ -424,5 +424,6 @@
     "tollDomainStatus9": "Inactiv",
     "tollDomainStatus99": "Inactiv",
     "tollDomainStatus-1": "Inactiv",
-    "searchTollDomain" : "Cautati domeniu taxabil"
+    "searchTollDomain" : "Cautati domeniu taxabil",
+    "penalties": "Штрафы"
 }
