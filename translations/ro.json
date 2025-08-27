@@ -416,7 +416,7 @@
     "cargoboxBalanceUnpaidInfo": "Soldul dumneavoastră este insuficient, iar taxele de drum aferente nu au fost achitate.\nAchitarea către operator a acestora va fi posibilă doar după alimentarea contului.\nVă informăm că, în această perioadă, eventualele amenzi generate ca urmare a neachitării taxelor de drum nu reprezintă responsabilitatea noastră!",
     "tollDomainStatus10": "Cerere de activare",
     "tollDomainStatus1": "Activ",
-    "tollDomainStatus4": "Cerere de suspendare",
+    "tollDomainStatus4": "Activ",
     "tollDomainStatus31": "Suspendat",
     "tollDomainStatus29": "Inactiv",
     "tollDomainStatus30": "Inactiv",
