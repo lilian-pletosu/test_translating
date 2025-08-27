@@ -416,7 +416,7 @@
     "cargoboxBalanceUnpaidInfo": "A fiók egyenlege nem elegendő, és a kapcsolódó útdíjak nem lettek kifizetve.\nAz útdíjszolgáltatónak történő fizetés csak a fiók feltöltése után lesz lehetséges.\nKérjük, vegye figyelembe, hogy ebben az időszakban az útdíjak nem fizetése miatt esetlegesen felmerülő bírságokért mi nem vagyunk felelősek!",
     "tollDomainStatus10": "Cerere de activare",
     "tollDomainStatus1": "Activ",
-    "tollDomainStatus4": "Cerere de suspendare",
+    "tollDomainStatus4": "Active",
     "tollDomainStatus31": "Suspendat",
     "tollDomainStatus29": "Inactiv",
     "tollDomainStatus30": "Inactiv",
