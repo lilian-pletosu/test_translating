@@ -419,10 +419,10 @@
     "tollDomainStatus31": "Suspendat",
     "tollDomainStatus29": "Inactiv",
     "tollDomainStatus30": "Inactiv",
-    "tollDomainStatus7": "Cerere de reziliere",
+    "tollDomainStatus7": "Active",
     "tollDomainStatus9": "Inactiv",
     "tollDomainStatus99": "Inactiv",
     "tollDomainStatus-1": "Inactiv",
-    "searchTollDomain" : "Cautati domeniu taxabil",
+    "searchTollDomain": "Cautati domeniu taxabil",
     "penalties": "Penalties"
 }
