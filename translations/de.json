@@ -413,7 +413,7 @@
     "uitNotificationError5": "Das dem UIT zugewiesene Fahrzeug befindet sich nicht in Ihrem eTransport-Vertrag! Bitte wenden Sie sich an das Support-Team!",
     "cargoboxBalanceInfo": "",
     "cargoboxBalanceUnpaid": "unbezahlte CargoBox-Gebühren",
-    "tollDomainStatus10": "Cerere de activare",
+    "tollDomainStatus10": "Suspended",
     "tollDomainStatus1": "Activ",
     "tollDomainStatus4": "Active",
     "tollDomainStatus31": "Suspendat",
