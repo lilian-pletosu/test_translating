@@ -416,7 +416,7 @@
     "cargoboxBalanceUnpaidInfo": "Баланс вашего счета недостаточен, и связанные с этим дорожные сборы не были оплачены.\nОплата оператору дорожных сборов будет возможна только после пополнения счета.\nПожалуйста, обратите внимание, что в течение этого периода любые штрафы, полученные в связи \nс неоплаченными дорожными сборами, не являются нашей ответственностью!",
     "tollDomainStatus10": "Cerere de activare",
     "tollDomainStatus1": "Activ",
-    "tollDomainStatus4": "Cerere de suspendare",
+    "tollDomainStatus4": "Active",
     "tollDomainStatus31": "Suspendat",
     "tollDomainStatus29": "Inactiv",
     "tollDomainStatus30": "Inactiv",
