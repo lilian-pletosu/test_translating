@@ -415,7 +415,7 @@
     "cargoboxBalanceUnpaidInfo": "Your account balance is insufficient, and the related tolls have not been paid.\nPayment to the toll operator will only be possible after the account is topped up.\nPlease note that during this period, any fines incurred due to unpaid tolls are not our responsibility!",
     "tollDomainStatus10": "Cerere de activare",
     "tollDomainStatus1": "Activ",
-    "tollDomainStatus4": "Cerere de suspendare",
+    "tollDomainStatus4": "Active",
     "tollDomainStatus31": "Suspendat",
     "tollDomainStatus29": "Inactiv",
     "tollDomainStatus30": "Inactiv",
