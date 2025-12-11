@@ -424,5 +424,6 @@
     "tollDomainStatus99": "Not registered",
     "tollDomainStatus-1": "Not registered",
     "searchTollDomain": "Search taxable domain",
-    "penalties": "Penalties"
+    "penalties": "Penalties",
+    "selectedInvoicesAmount": "Total facturi selectate"
 }
